@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+.env
+
+db_vectors.npy
+db_paths.npy
